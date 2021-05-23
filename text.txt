@@ -1,0 +1,75 @@
+Abstract: The data-set contains four (4) sets of mobile sensor readings data (humidity, temperature) corresponding 
+to a swarm of four (4) Unmanned Surface Vehicles (USVs) in a test-bed in Athens (Greece).
+
+Data Set Characteristics:  
+
+Multivariate, Time-Series
+
+Number of Instances:
+
+1672
+
+Area:
+
+Computer
+
+Attribute Characteristics:
+
+Real
+
+Number of Attributes:
+
+5
+
+Date Donated
+
+2018-05-06
+
+Associated Tasks:
+
+Regression
+
+Missing Values?
+
+N/A
+
+Number of Web Hits:
+
+16468
+
+
+Source:
+
+Dr Christos Anagnostopoulos; School of Computing Science, University of Glasgow; email: christos.anagnostopoulos '@' glasgow.ac.uk; G12 8QQ Scotland, UK. (NETLAB Group: https://netlab.dcs.gla.ac.uk/)
+
+
+Data Set Information:
+
+The data-set comprises (4) sets of mobile sensor readings data (humidity, temperature) corresponding to a swarm of four (4) Unmanned Surface Vehicles (USVs). Each USV set contains records of the format: {'USV-ID'; 'humidity-value'; 'temperature-value'; 'experiment-id';'sensing-time'} 
+The swarm of the USVs is moving according to a GPS pre-defined trajectory, whose relative way-points are specified in the README.pdf file. The USVs are floating over the sea surface in a coastal area of Athens (Greece). More information on the project: [Web Link] 
+
+
+Attribute Information:
+
+Attributes: 
+'device' = USV ID (String) 
+'humidity' = sensed humidity value from the USV sensor (real value) 
+'temperature' = sensed temperature value from the USV sensor (real value) 
+'experiment' = 1 (constant real value) 
+'time' = the sensing and reporting time (real value)
+
+
+Relevant Papers:
+
+Please cite one of the following papers: 
+[1] Harth, N. and Anagnostopoulos, C. (2018) Edge-centric Efficient Regression Analytics. In: 2018 IEEE International Conference on Edge Computing (EDGE), San Francisco, CA, USA, 02-07 Jul 2018 
+[2] Harth, N., Anagnostopoulos, C., (2017) Quality-aware Aggregation & Predictive Analytics at the Edge. IEEE International Conference on Big Data (IEEE Big Data 2017), December 11-14, 2017, Boston, MA, USA.
+
+
+
+Citation Request:
+
+Please cite one of the following papers: 
+[1] Harth, N. Anagnostopoulos, C. (2018) Edge-centric Efficient Regression Analytics. In: 2018 IEEE International Conference on Edge Computing (EDGE), San Francisco, CA, USA, 02-07 Jul 2018 
+[2] Harth, N., Anagnostopoulos, C., (2017) Quality-aware Aggregation & Predictive Analytics at the Edge. IEEE International Conference on Big Data (IEEE Big Data 2017), December 11-14, 2017, Boston, MA, USA.
+
